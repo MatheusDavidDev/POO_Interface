@@ -14,7 +14,7 @@ namespace Aula_2
 
             Produto p2 = new Produto();
             p2.Codigo = 2;
-            p2.Nome   = "Canetinha";
+            p2.Nome   = "Branquinho";
             p2.Preco  = 3.00f;
 
             Produto p3 = new Produto();
@@ -24,6 +24,7 @@ namespace Aula_2
 
             Carrinho carrinho = new Carrinho();
 
+            Console.ForegroundColor = ConsoleColor.Green;
             carrinho.Cadastrar(p1);
             carrinho.Listar();
 
