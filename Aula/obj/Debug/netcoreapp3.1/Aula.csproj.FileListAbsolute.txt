@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO_Interface\Aula\bin\Debug\netcoreapp3.1\Aula.exe
+C:\Users\dev\Desktop\POO_Interface\Aula\bin\Debug\netcoreapp3.1\Aula.deps.json
+C:\Users\dev\Desktop\POO_Interface\Aula\bin\Debug\netcoreapp3.1\Aula.runtimeconfig.json
+C:\Users\dev\Desktop\POO_Interface\Aula\bin\Debug\netcoreapp3.1\Aula.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO_Interface\Aula\bin\Debug\netcoreapp3.1\Aula.dll
+C:\Users\dev\Desktop\POO_Interface\Aula\bin\Debug\netcoreapp3.1\Aula.pdb
+C:\Users\dev\Desktop\POO_Interface\Aula\obj\Debug\netcoreapp3.1\Aula.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO_Interface\Aula\obj\Debug\netcoreapp3.1\Aula.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO_Interface\Aula\obj\Debug\netcoreapp3.1\Aula.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO_Interface\Aula\obj\Debug\netcoreapp3.1\Aula.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO_Interface\Aula\obj\Debug\netcoreapp3.1\Aula.dll
+C:\Users\dev\Desktop\POO_Interface\Aula\obj\Debug\netcoreapp3.1\Aula.pdb
+C:\Users\dev\Desktop\POO_Interface\Aula\obj\Debug\netcoreapp3.1\Aula.genruntimeconfig.cache
